@@ -1,0 +1,101 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "no",
+	"gui_light": "front",
+	"texture_size": [32, 32],
+	"textures": {
+		"5": "item/no/texture",
+		"particle": "block/texture"
+	},
+	"elements": [
+		{
+			"from": [10.7, 4.5, 0],
+			"to": [11, 10.5, 0],
+			"faces": {
+				"north": {"uv": [10.944, 4.2, 10.976, 6.2], "texture": "#5"},
+				"south": {"uv": [10.976, 4.2, 10.944, 6.2], "texture": "#5"}
+			}
+		},
+		{
+			"from": [5.3, 4.5, 0],
+			"to": [10.7, 10.5, 0],
+			"faces": {
+				"north": {"uv": [14.592, 0, 15.168, 2], "texture": "#5"},
+				"south": {"uv": [15.168, 0, 14.592, 2], "texture": "#5"}
+			}
+		},
+		{
+			"from": [5, 4.5, 0],
+			"to": [5.3, 10.5, 0],
+			"faces": {
+				"north": {"uv": [11.008, 4.2, 11.04, 6.2], "texture": "#5"},
+				"south": {"uv": [11.04, 4.2, 11.008, 6.2], "texture": "#5"}
+			}
+		},
+		{
+			"name": "border",
+			"from": [11.3, 10.8, 0.3],
+			"to": [4.7, 4.2, -0.3],
+			"faces": {
+				"north": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"},
+				"east": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"},
+				"south": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"},
+				"west": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"},
+				"up": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"},
+				"down": {"uv": [0, 6.3, 0.016, 6.35], "texture": "#5"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 4, 8.25]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 4, 8.25]
+		},
+		"firstperson_righthand": {
+			"translation": [18, -2, 0],
+			"scale": [2, 2, 2]
+		},
+		"firstperson_lefthand": {
+			"translation": [18, -2, 0],
+			"scale": [2, 2, 2]
+		},
+		"gui": {
+			"translation": [-0.5, 1.75, 0],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	},
+	"groups": [
+		{
+			"name": "x",
+			"origin": [0, 0, 0],
+			"color": 0,
+			"nbt": "{}",
+			"children": [
+				{
+					"name": "open_terminator",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"nbt": "{}",
+					"children": [0]
+				},
+				{
+					"name": "x",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"nbt": "{}",
+					"children": [1]
+				},
+				{
+					"name": "close_terminator",
+					"origin": [0, 0, 0],
+					"color": 0,
+					"nbt": "{}",
+					"children": [2]
+				},
+				3
+			]
+		}
+	]
+}

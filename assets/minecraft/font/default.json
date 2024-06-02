@@ -1,0 +1,137 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:fade/dark.png",
+            "ascent": 1024,
+            "height": 2048,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/feather.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/clock.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/invisible.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/mouse.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/chicken.png",
+            "ascent": 20,
+            "height": 20,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/map1.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/map2.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE00A"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/map3.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE00B"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/troll.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE00C"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:fade/bright.png",
+            "ascent": 256,
+            "height": 512,
+            "chars": ["\uE00D"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/trophy.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/mundiblack.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/mundiblack.png",
+            "ascent": 10,
+            "height": 10,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/map4.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE014"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/randommap.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE015"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/resistance.png",
+            "ascent": 10,
+            "height": 30,
+            "chars": ["\uE016"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/map5.png",
+            "ascent": 128,
+            "height": 128,
+            "chars": ["\uE017"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:chaticons/skeleton.png",
+            "ascent": 8,
+            "height": 8,
+            "chars": ["\uE018"]
+        }
+    ]    
+}

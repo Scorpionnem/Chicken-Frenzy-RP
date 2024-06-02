@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/black_dye"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":1000}, "model": "cars/blackcar"},
+	{"predicate": {"custom_model_data":1001}, "model": "cars/greencar"},
+	{"predicate": {"custom_model_data":1002}, "model": "cars/browncar"},
+	{"predicate": {"custom_model_data":1003}, "model": "cars/whitecar"}
+	]
+   }

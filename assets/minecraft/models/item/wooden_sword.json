@@ -1,0 +1,11 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/wooden_sword"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":3001}, "model": "custom/chickennet"},
+	{"predicate": {"custom_model_data":3002}, "model": "custom/chickennetgold"}
+	]
+   }

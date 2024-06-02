@@ -1,0 +1,45 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/paper"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":2000}, "model": "custom/chicken"},
+	{"predicate": {"custom_model_data":2001}, "model": "custom/chicken_gold"},
+	{"predicate": {"custom_model_data":2002}, "model": "custom/arrowlime"},
+	{"predicate": {"custom_model_data":2003}, "model": "custom/arrowgreen"},
+	{"predicate": {"custom_model_data":2004}, "model": "custom/arrowlime2"},
+	{"predicate": {"custom_model_data":2005}, "model": "custom/arrowgreen2"},
+	{"predicate": {"custom_model_data":2006}, "model": "custom/plusgreen"},
+	{"predicate": {"custom_model_data":2007}, "model": "custom/pluslime"},
+	{"predicate": {"custom_model_data":2008}, "model": "custom/tutorial"},
+	{"predicate": {"custom_model_data":2009}, "model": "custom/settings"},
+	{"predicate": {"custom_model_data":2010}, "model": "custom/billboard"},
+	{"predicate": {"custom_model_data":2011}, "model": "custom/mapselection"},
+	{"predicate": {"custom_model_data":2012}, "model": "custom/chicken2"},
+	{"predicate": {"custom_model_data":2013}, "model": "custom/blueteamw"},
+	{"predicate": {"custom_model_data":2014}, "model": "custom/redteamw"},
+	{"predicate": {"custom_model_data":2015}, "model": "custom/tie"},
+	{"predicate": {"custom_model_data":2016}, "model": "custom/starton"},
+	{"predicate": {"custom_model_data":2017}, "model": "custom/startoff"},
+	{"predicate": {"custom_model_data":2018}, "model": "custom/startgame"},
+	{"predicate": {"custom_model_data":2019}, "model": "custom/computer"},
+	{"predicate": {"custom_model_data":2020}, "model": "custom/trophy"},
+	{"predicate": {"custom_model_data":2021}, "model": "custom/what"},
+	{"predicate": {"custom_model_data":2022}, "model": "custom/projector"},
+	{"predicate": {"custom_model_data":2023}, "model": "custom/chickenholo"},
+	{"predicate": {"custom_model_data":2024}, "model": "custom/dice"},
+	{"predicate": {"custom_model_data":2025}, "model": "custom/hay"},
+	{"predicate": {"custom_model_data":2026}, "model": "custom/buttongray"},
+	{"predicate": {"custom_model_data":2027}, "model": "custom/animtest"},
+	{"predicate": {"custom_model_data":2028}, "model": "custom/egglamp"},
+	{"predicate": {"custom_model_data":2029}, "model": "custom/callelevator"},
+	{"predicate": {"custom_model_data":2030}, "model": "custom/elevatordoor"}
+
+
+
+
+
+	]
+   }

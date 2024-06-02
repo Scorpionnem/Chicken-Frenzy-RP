@@ -1,0 +1,12 @@
+{
+  "soundCategory.ambient": "Ambient/Environment",
+  "soundCategory.block": "Blocks",
+  "soundCategory.hostile": "Hostile Creatures",
+  "soundCategory.master": "Master Volume",
+  "soundCategory.music": "§cMinecraft Music",
+  "soundCategory.neutral": "Friendly Creatures",
+  "soundCategory.player": "Players",
+  "soundCategory.record": "§aMap Music",
+  "soundCategory.voice": "Voice/Speech",
+  "soundCategory.weather": "Weather"
+}

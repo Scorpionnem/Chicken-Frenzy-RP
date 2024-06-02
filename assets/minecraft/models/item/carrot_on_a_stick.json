@@ -1,0 +1,24 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/carrot_on_a_stick"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":1000}, "model": "custom/biginator"},
+	{"predicate": {"custom_model_data":1001}, "model": "custom/smallinator"},
+	{"predicate": {"custom_model_data":1002}, "model": "custom/featherstaff"},
+	{"predicate": {"custom_model_data":1003}, "model": "custom/icecharge"},
+	{"predicate": {"custom_model_data":1004}, "model": "custom/chicken_blue"},
+	{"predicate": {"custom_model_data":1005}, "model": "custom/chicken_red"},
+	{"predicate": {"custom_model_data":1006}, "model": "custom/redlobby"},
+	{"predicate": {"custom_model_data":1007}, "model": "custom/greenlobby"},
+	{"predicate": {"custom_model_data":1008}, "model": "custom/chickenride"},
+	{"predicate": {"custom_model_data":1009}, "model": "custom/chickenlauncher"},
+	{"predicate": {"custom_model_data":1010}, "model": "custom/chickenspectate"},
+	{"predicate": {"custom_model_data":1011}, "model": "custom/flashlight"},
+	{"predicate": {"custom_model_data":1012}, "model": "custom/flashlight2"},
+	{"predicate": {"custom_model_data":1013}, "model": "custom/chickendecoy"}
+	]
+   }
+  

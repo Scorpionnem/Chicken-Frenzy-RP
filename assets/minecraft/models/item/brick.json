@@ -1,0 +1,26 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/brick"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1001
+      },
+      "model": "custom/clocks"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1002
+      },
+      "model": "custom/clocks2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1003
+      },
+      "model": "custom/clocks3"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/stick"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":2000}, "model": "scorpionem/head"},
+	{"predicate": {"custom_model_data":2001}, "model": "scorpionem/body"},
+	{"predicate": {"custom_model_data":2002}, "model": "scorpionem/left_arm"},
+	{"predicate": {"custom_model_data":2003}, "model": "scorpionem/right_arm"},
+	{"predicate": {"custom_model_data":2004}, "model": "scorpionem/right_leg"},
+	{"predicate": {"custom_model_data":2005}, "model": "scorpionem/left_leg"},
+	{"predicate": {"custom_model_data":2006}, "model": "refortor/head"},
+	{"predicate": {"custom_model_data":2007}, "model": "refortor/body"},
+	{"predicate": {"custom_model_data":2008}, "model": "refortor/left_arm"},
+	{"predicate": {"custom_model_data":2009}, "model": "refortor/right_arm"},
+	{"predicate": {"custom_model_data":2010}, "model": "refortor/right_leg"},
+	{"predicate": {"custom_model_data":2011}, "model": "refortor/left_leg"},
+	{"predicate": {"custom_model_data":2012}, "model": "custom/chickennet"},
+	{"predicate": {"custom_model_data":2013}, "model": "custom/chickennetgold"},
+	{"predicate": {"custom_model_data":2014}, "model": "custom/arollertest"}
+
+	]
+   }

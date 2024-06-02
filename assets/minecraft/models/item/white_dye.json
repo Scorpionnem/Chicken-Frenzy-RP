@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+	"layer0": "item/white_dye"
+	},
+	
+	"overrides": [
+	{"predicate": {"custom_model_data":2000}, "model": "giantegg/golden0"},
+	{"predicate": {"custom_model_data":2001}, "model": "giantegg/golden1"},
+	{"predicate": {"custom_model_data":2002}, "model": "giantegg/golden2"},
+	{"predicate": {"custom_model_data":2003}, "model": "giantegg/golden3"}
+	]
+   }

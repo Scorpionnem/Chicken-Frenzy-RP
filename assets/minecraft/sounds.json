@@ -1,0 +1,127 @@
+{
+  "map11": {
+  "category": "record",
+  "sounds": [
+  "map1/1"
+]
+},
+
+  "map12": {
+  "category": "record",
+  "sounds": [
+  "map1/2"
+]
+},
+
+"map13": {
+  "category": "record",
+  "sounds": [
+  "map1/3"
+]
+},
+
+"map21": {
+  "category": "record",
+  "sounds": [
+  "map2/1"
+]
+},
+
+"map22": {
+  "category": "record",
+  "sounds": [
+  "map2/2"
+]
+},
+
+"map23": {
+  "category": "record",
+  "sounds": [
+  "map2/3"
+]
+},
+
+"map31": {
+  "category": "record",
+  "sounds": [
+  "map3/1"
+]
+},
+
+"map32": {
+  "category": "record",
+  "sounds": [
+  "map3/2"
+]
+},
+
+"map33": {
+  "category": "record",
+  "sounds": [
+  "map3/3"
+]
+},
+
+"map41": {
+  "category": "record",
+  "sounds": [
+  "map4/1"
+]
+},
+
+"map42": {
+  "category": "record",
+  "sounds": [
+  "map4/2"
+]
+},
+
+"map43": {
+  "category": "record",
+  "sounds": [
+  "map4/3"
+]
+},
+
+"map51": {
+  "category": "record",
+  "sounds": [
+  "map5/1"
+]
+},
+
+"map52": {
+  "category": "record",
+  "sounds": [
+  "map5/2"
+]
+},
+
+"map53": {
+  "category": "record",
+  "sounds": [
+  "map5/3"
+]
+},
+
+"spawn1": {
+  "category": "record",
+  "sounds": [
+  "spawn/1"
+]
+},
+
+"spawn2": {
+  "category": "record",
+  "sounds": [
+  "spawn/2"
+]
+},
+
+"spawn3": {
+  "category": "record",
+  "sounds": [
+  "spawn/3"
+]
+}
+}
